@@ -1,0 +1,20 @@
+{
+  "name": "datapipelinecli",
+  "version": "1.0.0",
+  "description": "My custom CLI tool",
+  "type": "module",
+  "bin": {
+    "mycli": "./bin/datapipelinecli.js"
+  },
+  "scripts": {
+    "start": "node bin/datapipelinecli.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["cli", "github-actions"],
+  "author": "Prasad Akula",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
+
