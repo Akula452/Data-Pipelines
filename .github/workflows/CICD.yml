@@ -1,4 +1,4 @@
-name: DataPipeline CLI
+name: Prasad DataPipeline CLI
 
 on:
   push:
